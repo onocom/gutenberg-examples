@@ -11,7 +11,7 @@
 	var __ = i18n.__;
 
 	var blockStyle = {
-		backgroundColor: '#990',
+		backgroundColor: '#900',
 		color: '#fff',
 		padding: '20px'
 	};
