@@ -13,7 +13,7 @@
 
 	blocks.registerBlockType( 'gutenberg-examples/example-02-stylesheets', {
 		title: __( 'Example: Stylesheets', 'gutenberg-examples' ),
-		icon: 'dashicons-admin-appearance',
+		icon: 'admin-appearance',
 		category: 'layout',
 		edit: function( props ) {
 			return el(
