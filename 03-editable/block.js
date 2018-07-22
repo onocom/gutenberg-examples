@@ -8,7 +8,7 @@
 	var el = element.createElement;
 	var __ = i18n.__;
 	var RichText = blocks.RichText;
-	var children = blocks.source.children;
+	//var children = blocks.source.children;
 
 	blocks.registerBlockType( 'gutenberg-examples/example-03-editable', {
 		title: __( 'Example: Editable', 'gutenberg-examples' ),
